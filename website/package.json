@@ -32,7 +32,7 @@
     "compare-versions": "^6.1.0",
     "docusaurus": "^1.14.7",
     "docusaurus-plugin-sass": "^0.2.5",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "lodash.get": "^4.4.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
